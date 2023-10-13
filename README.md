@@ -17,9 +17,10 @@
 | Задание 9 | + | + |
 | Задание 10 | + | + |
 
-Лабораторная работа
+# Лабораторная работа
 
-1. ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/ae2bfca2-520a-4aee-87db-82f8b6454708)
+1. 
+![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/ae2bfca2-520a-4aee-87db-82f8b6454708)
 
 2. ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/9938b045-14b5-4674-9a7d-fe45a389a586)
 
