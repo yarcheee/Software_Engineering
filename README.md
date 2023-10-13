@@ -53,30 +53,32 @@
 
 1.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/74115c16-72fd-42a8-a244-85fc2f07947a)
+Функция bool преобразует значение а в булевое значение
 
 2.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/b3078d38-62ae-4735-9e0f-3e8061a1d6f9)
-
+Присвоил значения трем переменным и вывел их в консоль
 3.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/9b706eeb-01ae-4c84-9a46-28019621c4b6)
-
+с помощью функции input вводится значение, с помощью функции int выводится только целое число, при других значениях будет ошибка
 4.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/5c9f9a49-4ce9-44d5-9900-46d88bddde4a)
-
+с помощью операции умножения выводится строка длинной более 16 символов
 5.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/a041f3d3-b036-41e4-9fb3-f58d3062b59f)
-
+создал 3 переменные, с помощью f строки вывел их значения, так же с помощью оператора end вывел фразу "всего хорошего!"
 6.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/39a2b4dd-794a-4775-b576-2e03a3b25dd4)
-
+с помощью метода replace заменил "world" на "my world"
 7.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/8b7062e3-c90d-4579-b812-7ca5adb0bec0)
-
+с помощью функции len узнал длину предложения
 8.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/a554cac7-8e89-4865-8615-ac9e45acdd56)
-
+с помощью метода lower перевел предложение в нижний регистр
 9.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/f2986039-8d2e-47f5-bb39-5f32f28d5c96)
-
+придумал задачу, где нужно было перевести предложение в числовое знаение и вычесть из него числовое значение
 10.
  ![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/fabc6313-e61c-4b46-b3d3-6441a9a067a1)
+создать 3 переменные в разном порядке и вывести их в определенном
