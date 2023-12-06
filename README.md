@@ -1,4 +1,3 @@
-![image](https://github.com/yarcheee/Software_Engineering/assets/99402010/4447b817-8c9f-4307-871f-3eae2598ecc8)# Тема 11. Итераторы и генераторы
 Отчёт по теме #11 выполнил:
 
 • Непеин Никита Сергеевич
